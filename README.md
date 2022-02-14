@@ -1,4 +1,4 @@
-# TradingView Charting Library and React Integration Example (JavaScript)
+# TradingView Charting Library and React Integration
 
 ## How to start
 
